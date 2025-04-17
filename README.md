@@ -1,22 +1,7 @@
 📊 Data Professional Survey Breakdown
 This project presents an interactive visualization dashboard built to analyze a survey conducted among data professionals across the globe. The dashboard summarizes responses from 630 survey participants, offering insights into various aspects of the data profession.
 
-🔍 Key Insights
-Total Respondents: 630
 
-Average Age: 29.87 years
-
-Top Countries: India, United States, Canada, United Kingdom
-
-Most Popular Programming Language: Python
-
-Top-Paid Job Role: Data Scientist (Average Salary: 94 units)
-
-Work-Life Balance Satisfaction: 5.74 / 10
-
-Salary Satisfaction: 4.27 / 10
-
-Difficulty to Enter the Field: Mixed opinions – Majority say "Neither Easy nor Difficult"
 
 🧩 Problem Statement
 Data professionals play a key role in organizations, but there's limited transparency into their demographics, job satisfaction, career paths, and skills. Newcomers and hiring managers alike often lack clear insights into:
@@ -32,6 +17,8 @@ Which programming languages are most favored?
 How difficult is it to enter the data field?
 
 This project aims to analyze survey data collected from data professionals worldwide and provide meaningful insights into their careers through an interactive Power BI dashboard.
+
+
 
 ✅ Solution
 To address the problem, an interactive Data Professional Survey Breakdown Dashboard was created using Power BI. The solution includes:
@@ -58,6 +45,26 @@ Identify top-paying roles and in-demand skills.
 
 Analyze challenges faced by newcomers in the data domain.
 
+
+🔍 Key Insights
+Total Respondents: 630
+
+Average Age: 29.87 years
+
+Top Countries: India, United States, Canada, United Kingdom
+
+Most Popular Programming Language: Python
+
+Top-Paid Job Role: Data Scientist (Average Salary: 94 units)
+
+Work-Life Balance Satisfaction: 5.74 / 10
+
+Salary Satisfaction: 4.27 / 10
+
+Difficulty to Enter the Field: Mixed opinions – Majority say "Neither Easy nor Difficult"
+
+
+
 📈 Dashboard Features
 Country of Survey Takers: Treemap to visualize country-wise participation.
 
@@ -69,9 +76,10 @@ Entry Difficulty: Donut chart showing how easy or difficult people found it to e
 
 Happiness Metrics: Gauge charts indicating satisfaction with work-life balance and salary.
 
+
 📦 Tools Used
 Power BI (for data visualization)
 
-Survey Dataset (source anonymous)
+Survey Dataset (source : Kaggle)
 
 Data cleaning & transformation (Power Query)
